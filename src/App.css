@@ -21,6 +21,13 @@
 .App-link {
   color: #61dafb;
 }
+.Button {
+  boder: 1px solid blue;
+  padding: 16px;
+  background-color: green;
+  font: inherit;22
+  cursor: pointer;
+}
 
 @keyframes App-logo-spin {
   from {
